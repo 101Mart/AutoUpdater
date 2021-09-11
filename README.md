@@ -1,4 +1,4 @@
-<p align="center"><img src="https://storage.needpix.com/rsynced_images/download-1915753_1280.png" width="150px" height="150px" alt="xenfory"></p>
+<p align="center"><img src="https://lh3.googleusercontent.com/proxy/wcOSPeNwpCkh9RDErVTu2X6aNr81o5E3AdWoRVwJwB5mxO2sKsWn5AgzNjnKnw1wJcDQhMWNsLzDCUOr4ox5X68Q6oHFWsE" width="150px" height="150px" alt="downloading"></p>
 
 <h1 align="center">C# Auto Updater</h1>
 
