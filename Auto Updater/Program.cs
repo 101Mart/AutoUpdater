@@ -66,7 +66,7 @@ namespace Auto_Updater
             }
             else
             {
-                Directory.CreateDirectory("C:\\ProgramData\\buv4");
+                Directory.CreateDirectory("C:\\ProgramData\\" + Program_Name);
                 WebClient wc = new WebClient();
                 wc.DownloadFile(download_link, "C:\\ProgramData\\" + Program_Name + "\\ilililili.zip");
                 string startPath = "C:\\ProgramData\\" + Program_Name + "\\ilililili.zip";
